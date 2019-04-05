@@ -1,0 +1,9 @@
+{
+  "name": "js-mc7xqs",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.5.18",
+    "vuetify": "^1.5.9"
+  }
+}
